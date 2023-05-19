@@ -1,0 +1,1 @@
+newman run collection/market-final-project.postman_collection.json -e environtment\Testing.postman_environment.json -r htmlextra
